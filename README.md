@@ -1,7 +1,10 @@
 # shop_mnger-with-DSA
-
-shopping list manager with linked list data structure and used double linked list in c++
+Shopping list manager with linked list data structure and used double linked list in c++
 A data structure written in c++ is implemented for creating a doubly linked list and several operation to perform the list (basic)
 
 In the project online selling management we are having an interface between the seller and the buyer. In this project majorly
 the seller side is been taken care and management is done. Byusing the linkedlist concepts we are getting information from user that is seller and it is separated based on the product information. In this project modules like insertion, deletion, searching, updating, display and we are also giving priority options. By all these modules in the project on line selling is been managed.
+
+This project online selling management is for managing the details of the items which have been uploaded by the users. In this project we have asked for details about the items from the user and regarding details about the items like name, cost, years of used, contact and more details which will be helpful for the buyer to recognize it and but. we also used key for each items that have been uploaded .Each time once the seller called for an page to upload a node will be created and in that node, seller can upload the details that have been asked. We have also included an special function in our project named as existnode , which has been used for checking the key for an item to upload ,if already an item with same key is found it will reported and seller will be asked to use alternate key for that item to upload. Our project will be useful for a user to upload the details and manage the details with the help of node we have created. This project have 12 modules with a special module named as existnode. User can input or give details of the item through insert modules. If user want to give priority for a item ,user can use priority module and delete module is available. Then for the buyer purpose display function and search function or modules are used in our project.
+
+We have used double linked list and pointer variables are used to perform our project. Another speciality of our project is that it dyamic we can create an node every time as a runtime dynamic allocation. Every time for insert a function, a new node will created while creating node object. So space complexity is avoided and no issue for memory allocation. 
